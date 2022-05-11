@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://drive.google.com/file/d/1GJYqTEJqaxoPBLYwEQuNwhfvcNEEppmy/view?usp=sharing",
+    img: "https://user-images.githubusercontent.com/60954731/167943524-3cc48d62-3294-43dd-9004-58b7a9dc62a3.png",
     title: "Movier",
     description:
       "Fetches and Display top rated movies with their rating and description and user can also search their movie",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://movier63.netlify.app/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    img: "https://user-images.githubusercontent.com/60954731/167943723-ad58bf33-6018-4915-9b1e-307895c7ebe3.png",
     title: "Noting the nerdness",
     description:
       "A fully responsive web application for storing your notes and thoughts. Uses localstorage for persistence. Built using HTML5, CSS3 Bootstrap and JavaScript",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://prajwal6394.github.io/Noting-The-Nerdness/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://user-images.githubusercontent.com/60954731/167943802-1fbc21cc-181c-48be-8e28-e47ea87c7b97.png",
     title: "Cryptomap",
     description: "A react web app that fetches and displays the real-time prices for trending cryptocurrencies in a simple and intuitive UI. Users can also quickly search for specific currencies in real-time. ",
     tech_stack: "Reactjs, Css",
@@ -27,7 +27,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    img: "https://user-images.githubusercontent.com/60954731/167943890-aa205c7c-1dcc-4be9-99a5-f406c50ea45b.png",
     title: "Random-teller",
     description:
       "A web app that displays random quotes along with their author from an API without any page loading, Built using HTML5, CSS3 and JavaScript.",
